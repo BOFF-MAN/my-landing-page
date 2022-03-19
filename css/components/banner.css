@@ -1,0 +1,18 @@
+.banner{
+  height: 240px;
+  background-size: cover;
+  background-position: center;
+  padding: 40px;
+}
+
+.banner h1 {
+  font-size: 64px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.banner p {
+  font-size: 32px;
+  margin-top: 0px;
+  margin-bottom: 24px;
+}

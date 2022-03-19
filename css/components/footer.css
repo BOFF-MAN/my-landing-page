@@ -1,0 +1,33 @@
+.footer {
+  background-color: #DAB88B;
+  height: 150px;
+  text-align: center;
+  padding: 24px;
+}
+
+.footer a {
+  text-decoration: none;
+  color: black;
+  padding-left: 4px;
+  font-weight: bolder;
+}
+
+.social-links ul {
+  list-style: none;
+}
+
+.social-links li {
+  display: inline-block;
+  padding: 0px 8px;
+  font-size: xx-large;
+}
+
+.footer a:hover {
+  color: rgba(0, 0, 0, 0.482);
+}
+
+.sign-off {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
